@@ -1,0 +1,14 @@
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\bin\Debug\Doom Manager.exe.config
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\bin\Debug\Doom Manager.exe
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\bin\Debug\Doom Manager.pdb
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom Manager.csprojAssemblyReference.cache
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom_Manager.Form1.resources
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom_Manager.Properties.Resources.resources
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom Manager.csproj.GenerateResource.cache
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom Manager.csproj.CoreCompileInputs.cache
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom Manager.exe
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom Manager.pdb
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\bin\Debug\Doom Manager.exe.manifest
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\bin\Debug\Doom Manager.application
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom Manager.exe.manifest
+C:\Users\lcm\Desktop\Programowanie\C#\Doom Manager\Doom Manager\obj\Debug\Doom Manager.application
